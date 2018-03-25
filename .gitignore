@@ -1,0 +1,12 @@
+# exclude everything except directory foo/bar
+nbproject/
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# exclude config.php for hide password from db
+config.php
